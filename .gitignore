@@ -1,6 +1,8 @@
 # dependencies
 /node_modules
 rest_server/node_modules/
+test/node_modules/
+test/.next/
 /.pnp
 .pnp.js
 
